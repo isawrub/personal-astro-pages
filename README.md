@@ -175,6 +175,9 @@ If you have any suggestions/feedback, you can contact me via [my email](mailto:c
 
 Licensed under the MIT License, Copyright © 2025
 
+### 📜 Sub-License
+
+Licensed under GNU General Public License v3.0
 ---
 
 Made with 🤍 by [Sat Naing](https://satnaing.dev) 👨🏻‍💻 and [contributors](https://github.com/satnaing/astro-paper/graphs/contributors).
